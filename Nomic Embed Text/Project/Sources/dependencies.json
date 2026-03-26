@@ -1,9 +1,5 @@
 {
 	"dependencies": {
-		"onnx genai": {
-			"github": "miyako/onnx-genai",
-			"version": "latest"
-		},
 		"event": {
 			"github": "miyako/event",
 			"version": "latest"
